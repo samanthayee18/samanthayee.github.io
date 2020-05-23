@@ -97,7 +97,10 @@ style="background-color:rgb(75, 75, 75);">
             <article id="work">
                 <span class="image main"><img src="images/pic02.jpg" alt="" /></span>
                 <p>Listed below are finished projects from courses at CSUF linked to github repositories. To view projects feel free to click on attached links.</p>
-                <p><a href="https://github.com/samanthayee18/349Midterm">CPSC 349 Front End Web </a>- MidTerm Exam</p>
+		   
+		<p><a href="https://github.com/DsanchezNFK/479-Project-2">CPSC 479 High Performance Computing </a>- Coronavirus 				fatalitiy risk assesment</p>
+		<p><a href="https://github.com/samanthayee18/431Project1">CPSC 431 Database and Application </a>- Quota </p>
+                <p><a href="https://github.com/samanthayee18/349Midterm">CPSC 349 Front End Web </a>- MidTerm </p>
                 <p><a href="https://github.com/samanthayee18/349_Front-End-Web">CPSC 349 Front End Web Projects </a>- OTTERGRAM</p>
                 <p><a href="https://github.com/samanthayee18/COFFEERUN_firebase">CPSC 349 Front End Web Projects </a>- COFFEERUN with Firebase</p>
                 <p><a href="https://github.com/samanthayee18/chattrbox_ch15_ch16">CPSC 349 Front End Web Projects </a>- Chattrbox Ch15 & Ch16</p>
